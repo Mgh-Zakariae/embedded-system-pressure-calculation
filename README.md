@@ -35,7 +35,7 @@ Les composants utilisés sont :
 - Un **microcontrôleur**, tel qu’un Arduino Uno.
 - Un **écran LM044L** pour afficher les mesures de pression en temps réel .
 - Un **Speaker et une LED** pour signaler les alertes.
-![[2025-03-23 00_03_42-presDetect - Proteus 8 Professional - Schematic Capture.png]]
+![](https://github.com/Mgh-Zakariae/embedded-system-pressure-calculation/blob/24a9315cd2c9dc1ab09f5e01e0e9a4a5ffeaad75/images/2025-03-23%2000_03_42-presDetect%20-%20Proteus%208%20Professional%20-%20Schematic%20Capture.png)
 
 Voici un extrait du code utilisé pour lire la pression et générer une alerte en cas de valeur anormale :
 >(code)
